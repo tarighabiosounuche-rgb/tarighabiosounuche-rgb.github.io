@@ -21,4 +21,4 @@ Sales Volatility: Analyzed monthly sales fluctuations to understand market dynam
 
 **Dashboard Overview**: This dashboard serves as a crucial tool for the cookies company’s management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
 
-![SALES ANALYSIS](SALESANALYSIS.png)
+![SALES](SALES.png)
